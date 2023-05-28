@@ -1,7 +1,7 @@
 {
   "name": "english-school",
   "version": "1.0.0",
-  "proxy": "http://localhost:3000",
+  "proxy": "https://tcc-english-school-9268fx5pz-felipeschefer.vercel.app",
   "description": "An English course",
   "main": "server.js",
   "scripts": {

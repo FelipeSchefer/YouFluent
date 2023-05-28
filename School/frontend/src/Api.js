@@ -3,6 +3,6 @@
 // const api = axios.create({
 //  baseURL: `http://localhost:3000/`
 // });
-const api = `http://localhost:3000`;
+const api = `https://tcc-englishschool.felipeschefer1.repl.co`;
 
 export default api;
